@@ -36,4 +36,4 @@ Run `go get github.com/rburmorrison/go-chained/...`.
 
 To view the Chained documentation, install the package and run `godoc -http=":6060"`. The documentation will be available at [http://localhost:6060/](http://localhost:6060/) within the packages page.
 
-**Note:** $GOHOME must be set for this to work properly.
+**Note:** $GOPATH must be set for this to work properly.
