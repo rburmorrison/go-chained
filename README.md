@@ -10,7 +10,7 @@ package main
 import (
     "fmt"
 
-    "ryanburmeister/chained"
+    "github/rburmorrison/go-chained/pkg/chained"
 )
 
 func main() {
@@ -30,7 +30,7 @@ func main() {
 
 ## Installation
 
-To install chained, clone the repository into your `$GOHOME/src` folder. On Unix machines, $GOHOME tends to resolve to `$HOME/go`. Once cloned, ensure the folder name is "chained", navigate to the directory in a terminal and run `go install`. Chained is built entirely with the standard packages, so no third-party packages are required.
+Run `go get github.com/rburmorrison/go-chained/...`
 
 ## Documentation
 
