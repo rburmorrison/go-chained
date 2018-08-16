@@ -30,7 +30,7 @@ func main() {
 
 ## Installation
 
-Run `go get github.com/rburmorrison/go-chained/`.
+Run `go get github.com/rburmorrison/go-chained`.
 
 ## Documentation
 
