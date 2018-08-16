@@ -10,7 +10,7 @@ package main
 import (
     "fmt"
 
-    "github/rburmorrison/go-chained/pkg/chained"
+    "github/rburmorrison/go-chained"
 )
 
 func main() {
@@ -30,7 +30,7 @@ func main() {
 
 ## Installation
 
-Run `go get github.com/rburmorrison/go-chained/...`.
+Run `go get github.com/rburmorrison/go-chained/`.
 
 ## Documentation
 
