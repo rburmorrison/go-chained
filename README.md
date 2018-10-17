@@ -2,7 +2,11 @@
 
 A Golang package for the quick creation of a simple blockchain.
 
+**Documentation:** [https://godoc.org/github.com/rburmorrison/go-chained](https://godoc.org/github.com/rburmorrison/go-chained)
+
 **Please note:** This package is meant to be used for prototyping, experimentation, or education only. Some key cryptography is missing from this package to make it fully secure. However, it is great for getting your ideas made quickly.
+
+`go get github.com/rburmorrison/go-chained`
 
 ## Basic Usage
 
@@ -29,13 +33,3 @@ func main() {
     fmt.Println(b.JSONString())
 }
 ```
-
-## Installation
-
-Run `go get github.com/rburmorrison/go-chained`.
-
-## Documentation
-
-To view the Chained documentation, install the package and run `godoc -http=":6060"`. The documentation will be available at [http://localhost:6060/](http://localhost:6060/) within the packages page.
-
-**Note:** $GOPATH must be set for this to work properly.
